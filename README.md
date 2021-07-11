@@ -6,7 +6,7 @@
 
 ## Hi There 👋
 
-
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
   
 <!--
 **hyeongil2/hyeongil2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
