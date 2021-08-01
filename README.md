@@ -14,7 +14,10 @@
 ### Hello, I'm Hyeongil Hwang!
 Good day!  
 
+I am interested in data science and data analyst)
+
 If you want to contact me, please leave me a message!
+
 <!--
 **hyeongil2/hyeongil2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
