@@ -14,7 +14,8 @@
 ### Hello, I'm Hyeongil Hwang!
 Good day!  
 
-I am interested in data science and data analyst)
+I am interested in data science and data analyst. I love game, exercising and communicating!
+
 
 If you want to contact me, please leave me a message!
 
